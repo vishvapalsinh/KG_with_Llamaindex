@@ -1,0 +1,26 @@
+filename,index_pair,relationship
+Product_eatanmol.com_September2020_CPA.json.gz,0 - 1,title
+Product_eatanmol.com_September2020_CPA.json.gz,0 - 2,description
+Product_eatanmol.com_September2020_CPA.json.gz,0 - 3,publicationDate
+Product_eatanmol.com_September2020_CPA.json.gz,0 - 4,category
+Product_eatanmol.com_September2020_CPA.json.gz,0 - 5,price
+Product_eatanmol.com_September2020_CPA.json.gz,0 - 6,currency
+Product_eatanmol.com_September2020_CPA.json.gz,0 - 7,publisher
+Product_eatanmol.com_September2020_CPA.json.gz,0 - 8,image
+Product_eatanmol.com_September2020_CPA.json.gz,0 - 9,review
+Product_eatanmol.com_September2020_CPA.json.gz,0 - 10,rating
+Product_eatanmol.com_September2020_CPA.json.gz,0 - 11,startDateTime
+Movie_kingphim.net_September2020_CPA.json.gz,0 - 1,title
+Movie_kingphim.net_September2020_CPA.json.gz,0 - 2,startDateTime
+Movie_kingphim.net_September2020_CPA.json.gz,0 - 3,endDateTime
+Movie_kingphim.net_September2020_CPA.json.gz,0 - 4,rating
+Movie_kingphim.net_September2020_CPA.json.gz,0 - 5,publisher
+Movie_kingphim.net_September2020_CPA.json.gz,0 - 6,director
+Book_audubongalleries.com_September2020_CPA.json.gz,0 - 1,author
+Book_audubongalleries.com_September2020_CPA.json.gz,0 - 2,publisher
+Book_audubongalleries.com_September2020_CPA.json.gz,0 - 3,price
+Book_audubongalleries.com_September2020_CPA.json.gz,0 - 4,inStock
+Movie_movieon21.space_September2020_CPA.json.gz,error,No valid JSON found
+LocalBusiness_coregulatingtouch.com_September2020_CPA.json.gz,0 - 1,name
+LocalBusiness_coregulatingtouch.com_September2020_CPA.json.gz,0 - 2,credential
+LocalBusiness_coregulatingtouch.com_September2020_CPA.json.gz,0 - 3,title
