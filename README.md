@@ -20,7 +20,7 @@ Perfect for anyone exploring NLP, knowledge graphs, and graph-based question ans
 
 ## ⚙️ Features
 
-- Fetch Wikipedia articles using `WikipediaReader`.
+- Fetch Wikipedia articles using `WikipediaReader`. (One can also download the documents that interests)
 - Generate embeddings via remote APIs with `RemoteInstructorEmbeddings`.
 - Build knowledge graph indexes with LlamaIndex.
 - Persist graph data into a Neo4j database.
